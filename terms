@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Terms & Conditions - Midnight Mums Club</title>
+  <style>
+    body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; }
+    h1, h2 { color: #2c3e50; }
+  </style>
+</head>
+<body>
+  <h1>Terms & Conditions</h1>
+  <p>Effective Date: August 20, 2025</p>
+
+  <p>Welcome to Midnight Mums Club. By downloading or using our app, you agree to the following Terms & Conditions.</p>
+
+  <h2>Eligibility</h2>
+  <p>The app is designed for mothers and is available only to users aged 13 or older.</p>
+
+  <h2>User Accounts</h2>
+  <ul>
+    <li>You must provide accurate information when creating an account (email, phone, date of birth).</li>
+    <li>You are responsible for maintaining the confidentiality of your account details.</li>
+    <li>If you choose to upload a picture or record audio, you grant us the right to store and display it within the app.</li>
+  </ul>
+
+  <h2>Permissions</h2>
+  <p>By using the app, you may grant permissions including:</p>
+  <ul>
+    <li>Camera – to upload pictures (optional)</li>
+    <li>Microphone – to record and send audio messages</li>
+    <li>Audio Playback – to listen to audio content</li>
+    <li>Notifications – to receive reminders and updates</li>
+    <li>Storage – to save and access media files</li>
+  </ul>
+  <p>Permissions are used only for their intended purpose and can be disabled in device settings.</p>
+
+  <h2>Subscriptions & Purchases</h2>
+  <ul>
+    <li>Some features may require a subscription.</li>
+    <li>Payments are processed securely via Google Play or Apple App Store.</li>
+    <li>Subscriptions are subject to the respective store’s refund and cancellation policies.</li>
+  </ul>
+
+  <h2>Account Deletion</h2>
+  <p>If you delete your account, all associated data (email, phone, date of birth, pictures, audio, etc.) will be permanently deleted.</p>
+
+  <h2>Prohibited Uses</h2>
+  <p>You agree not to misuse the app, including:</p>
+  <ul>
+    <li>Engaging in illegal or harmful activities</li>
+    <li>Harassing or abusing other users</li>
+    <li>Attempting to access accounts without permission</li>
+  </ul>
+
+  <h2>Termination</h2>
+  <p>We may suspend or terminate accounts that violate these Terms.</p>
+
+  <h2>Disclaimer</h2>
+  <p>The app is provided "as is". We make no guarantees of uninterrupted service or error-free operation.</p>
+
+  <h2>Changes to Terms</h2>
+  <p>We may update these Terms from time to time. Continued use means acceptance of updated Terms.</p>
+
+  <h2>Contact Us</h2>
+  <p>Email: <a href="mailto:support@midnightmumsclub.com">support@midnightmumsclub.com</a></p>
+
+  <footer>
+    <p>All rights reserved © 2025 Midnight Mums Club</p>
+  </footer>
+</body>
+</html>
