@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Privacy Policy - Midnight Mums Club</title>
+  <style>
+    body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; }
+    h1, h2 { color: #2c3e50; }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p>Effective Date: August 20, 2025</p>
+
+  <p>Midnight Mums Club ("we", "our", "us") values your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, and protect your data when you use our app.</p>
+
+  <h2>Information We Collect</h2>
+  <ul>
+    <li>Email address (required for account creation and communication)</li>
+    <li>Phone number (for verification and features)</li>
+    <li>Date of birth (to provide age-appropriate access)</li>
+    <li>Profile pictures (optional, uploaded by you)</li>
+    <li>Audio recordings (only when you choose to record or send audio messages)</li>
+    <li>Device and usage information (e.g., app interactions, crash reports)</li>
+  </ul>
+
+  <h2>How We Use Your Information</h2>
+  <ul>
+    <li>To create and manage your account</li>
+    <li>To provide communication features, including audio messaging</li>
+    <li>To send push notifications (with your consent)</li>
+    <li>To improve app features and ensure security</li>
+    <li>To provide support when requested</li>
+  </ul>
+
+  <h2>Permissions We Request</h2>
+  <ul>
+    <li><b>Camera</b> – to capture and upload pictures (optional)</li>
+    <li><b>Microphone</b> – to record and send audio messages</li>
+    <li><b>Audio Playback</b> – to play received audio messages</li>
+    <li><b>Notifications</b> – to send updates, reminders, and alerts</li>
+    <li><b>Storage Access</b> – for saving and retrieving media</li>
+  </ul>
+
+  <h2>Data Deletion</h2>
+  <p>If you delete your account, all personal data (email, phone, date of birth, pictures, audio, etc.) will be permanently deleted from our systems.</p>
+
+  <h2>Data Sharing</h2>
+  <p>We do not sell or rent your data. We may share information only with:</p>
+  <ul>
+    <li>Service providers (hosting, analytics, payments)</li>
+    <li>Authorities, if required by law</li>
+  </ul>
+
+  <h2>Children’s Privacy</h2>
+  <p>This app is designed for mothers and is not directed at children under 13. We do not knowingly collect information from children.</p>
+
+  <h2>Your Rights</h2>
+  <p>You may request access to, correction of, or deletion of your data by contacting: <a href="mailto:support@midnightmumsclub.com">support@midnightmumsclub.com</a></p>
+
+  <h2>Changes to This Policy</h2>
+  <p>We may update this Privacy Policy as needed. Updates will be posted here.</p>
+
+  <h2>Contact Us</h2>
+  <p>Email: <a href="mailto:support@midnightmumsclub.com">support@midnightmumsclub.com</a></p>
+
+  <footer>
+    <p>All rights reserved © 2025 Midnight Mums Club</p>
+  </footer>
+</body>
+</html>
